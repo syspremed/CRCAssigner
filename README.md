@@ -1,6 +1,6 @@
 # CRCAssigner
 
-An R package for predicting colorectal cancer subtypes (Sadanandam et al, 2013) using 786 gene signature or a reduced set of 38 genes.
+An R package for predicting colorectal cancer subtypes (Sadanandam, et al, 2013; Ragulan, et al 2019 and Guinney, et al. 2015) using 786 gene signature or a reduced set of 38 genes.
 
 # INSTALLATION
 
