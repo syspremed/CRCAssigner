@@ -35,3 +35,15 @@ Output of this analysis will be in the current working directory. This include
 (iii) correlation with the correlation of samples to each subtype, and 
 
 (iv) CRCAssigner data with the expression of the matched genes.
+
+# CITATIONS
+
+Please cite the following if you use this code in your publication:
+
+1. Sadanandam, A. Lyssiotis, C.A. Homicsko, K. Collisson, E.A. Gibb, W.J. Wullschleger, S. Ostos, L.C. Lannon, W.A. Grotzinger, C. Del Rio, M. Lhermitte, B. Olshen, A.B. Wiedenmann, B. Cantley, L.C. Gray, J.W. Hanahan, D. (2013). A colorectal cancer classification system that associates cellular phenotype and responses to therapy. Nat med, Vol.19 (5), pp. 619-625.
+
+2.  Ragulan, C. Eason, K. Fontana, E. Nyamundanda, G. Tarazona, N. Patil, Y. Poudel, P. Lawlor, R.T. Del Rio, M. Koo, S.-. Tan, W.-. Sclafani, F. Begum, R. Teixeira Mendes, L.S. Martineau, P. Scarpa, A. Cervantes, A. Tan, I.B. Cunningham, D. Sadanandam, A. (2019). Analytical Validation of Multiplex Biomarker Assay to Stratify Colorectal Cancer into Molecular Subtypes. Scientific reports, Vol.9 (1). 
+
+3. Guinney, J. Dienstmann, R. Wang, X. de Reyniès, A. Schlicker, A. Soneson, C. Marisa, L. Roepman, P. Nyamundanda, G. Angelino, P. Bot, B.M. Morris, J.S. Simon, I.M. Gerster, S. Fessler, E. De Sousa E Melo, F. Missiaglia, E. Ramay, H. Barras, D. Homicsko, K. Maru, D. Manyam, G.C. Broom, B. Boige, V. Perez-Villamil, B. Laderas, T. Salazar, R. Gray, J.W. Hanahan, D. Tabernero, J. Bernards, R. Friend, S.H. Laurent-Puig, P. Medema, J.P. Sadanandam, A. Wessels, L. Delorenzi, M. Kopetz, S. Vermeulen, L. Tejpar, S. (2015). The consensus molecular subtypes of colorectal cancer. Nature medicine, Vol.21 (11), pp. 1350-1356. 
+
+
