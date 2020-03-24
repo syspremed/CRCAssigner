@@ -1,0 +1,9 @@
+Package: CRCAssigner
+Type: Package
+Title: CRCAssigner subtype classification for colorectal cancer
+Version: 1.0
+Date: 2020-03-23
+Author: Sadanandam Lab
+Maintainer: Anguraj Sadanandam <anguraj.sadanandam@icr.ac.uk>
+Description: A function predicting colorectal cancer subtypes (Sadanandam at al, 2013) using 786 gene signature or a reduced set of 38 genes.
+License: What license is it under?
