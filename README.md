@@ -10,7 +10,7 @@ install_github("syspremed/CRCAssigner")
 
 # Usage
 
-CRCA(direc, file, PAM = PAM38, und_cutoff = 0.15, mix_cutoff = 0.06) 
+CRCA(direc, file, PAM = 'PAM38', und_cutoff = 0.15, mix_cutoff = 0.06) 
 
 # Arguments
 
