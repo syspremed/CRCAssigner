@@ -18,7 +18,7 @@ direc The working directory with the the expression data and where the output is
 
 file The file with the expression data, with genes on the rows and the first column should contain gene names.
 
-PAM Choice of which centroid to use, 786 genes signature (PAM786) or reduced set of 38 genes (PAM38). Default is 38 gene signature.
+PAM Choice of which centroid to use, 786 genes signature ("PAM786") or reduced set of 38 genes ("PAM38"). Default is 38 gene signature. Note the quotation marks should also be provided.
 
 und_cutoff Cutoff of identifying low confidence samples (und_cutoff = 0.15)
 
