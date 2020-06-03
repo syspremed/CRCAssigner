@@ -2,7 +2,7 @@ CRCA <- function(direc, file, PAM='PAM38', und_cutoff = 0.15, mix_cutoff = 0.06)
 {
   if(missing(direc)){stop("Provide the working directory with the data.\n")}
   if(missing(file)){stop("Expression data are required..\n ")}
-  if(!is.character){stop("PAM38 or PAM786 should be in quotes i.e., "PAM38" or "PAM786"..\n ")}
+  if(!is.character(PAM)){stop("PAM38 or PAM786 should be in quotes i.e., "PAM38" or "PAM786"..\n ")}
   
   #preparing the directory and folders
   setwd( direc )
