@@ -7,7 +7,7 @@
 For predicting colorectal cancer subtypes (Sadanandam at al, 2013) using 786 gene signature or a reduced set of 38 genes.
 }
 \usage{
-CRCA(direc, file, PAM = PAM38, und_cutoff = 0.15, mix_cutoff = 0.06)
+CRCA(direc, file, PAM = "PAM38", und_cutoff = 0.15, mix_cutoff = 0.06)
 }
 \arguments{
   \item{direc}{
@@ -17,7 +17,7 @@ CRCA(direc, file, PAM = PAM38, und_cutoff = 0.15, mix_cutoff = 0.06)
  The file with the expression data, with genes on the rows and the first column should contain gene names. 
 }
   \item{PAM}{
-  Choice of which centroid to use, 786 genes signature (PAM786) or reduced set of 38 genes (PAM38). Default is 38 gene signature. 
+  Choice of which centroid to use, 786 genes signature ("PAM786") or reduced set of 38 genes ("PAM38"). Default is 38 gene signature. 
 }
   \item{und_cutoff}{
  Cutoff of identifying low confidence samples (und_cutoff = 0.15)
