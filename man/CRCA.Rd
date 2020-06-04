@@ -36,5 +36,6 @@ matched genes.
 }
 \examples{
   library(CRCAssigner)
+  #PAM = "PAM38"
   #CRCA(direc, file, PAM, und_cutoff = 0.15, mix_cutoff = 0.06)
 }
